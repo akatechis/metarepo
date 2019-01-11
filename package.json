@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "name": "metarepo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/akatechis/metarepo.git",
+  "author": "Alexandros Katechis <alex.katechis@pefin.com>",
+  "license": "MIT",
+  "scripts": {},
+  "dependencies": {
+    "meta-npm": "^1.0.2"
+  }
+}
